@@ -42,3 +42,25 @@ body {
     border-radius: 10px;
     margin: 5px;
 }
+
+.conteudo {
+    display: flex;
+    flex-flow: row wrap;
+    height: 700px;
+    background-color: red;
+}
+
+.artes {
+    flex: 50%;
+    background-color: bisque;
+}
+
+.historia {
+    flex: 50%;
+    background-color: cadetblue;
+}
+
+.rodape {
+    height: 200px;
+    background-color: brown;
+}
