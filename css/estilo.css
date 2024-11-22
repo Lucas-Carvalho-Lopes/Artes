@@ -55,6 +55,26 @@ body {
     background-color: bisque;
 }
 
+.artes h1 {
+    margin-left: 15px;
+}
+
+.artes p {
+    margin-left: 25px;
+}
+
+.artes img {
+    margin-left: 90px;
+}
+
+.artes h2 {
+    margin-left: 20px;
+}
+
+.artes ul {
+    margin-left: 25px;
+}
+
 .historia {
     flex: 50%;
     background-color: cadetblue;
