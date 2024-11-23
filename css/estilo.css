@@ -80,6 +80,18 @@ body {
     background-color: cadetblue;
 }
 
+.historia h1 {
+    margin-left: 15px;
+}
+
+.historia p {
+    margin-left: 25px;
+}
+
+.historia img {
+    margin-left: 130px;
+}
+
 .rodape {
     height: 200px;
     background-color: brown;
