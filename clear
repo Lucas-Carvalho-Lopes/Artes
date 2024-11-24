@@ -1,0 +1,23 @@
+[33mcommit 70eba1d9aff831d11a65fb0d461150a486c922cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Lucas Carvalho <lucas.carvalho.lopes016@gmail.com>
+Date:   Sat Nov 23 16:10:18 2024 -0300
+
+    adicionei mais conteudo textual a pagina modificando os arquivos index.html e estilo.css
+
+[33mcommit 96300d9203ed6379600c981cb31fb800dc3a895c[m
+Author: Lucas Carvalho <lucas.carvalho.lopes016@gmail.com>
+Date:   Fri Nov 22 17:38:38 2024 -0300
+
+    alterei os arquivos estilo.css e index.html para colocar conteudo escrito na pagina e adicionei uma pasta com imagens para a utilizacao na aplicacao
+
+[33mcommit 702e408cccdb18ee50b866c4fae97b4e1370a191[m
+Author: Lucas Carvalho <lucas.carvalho.lopes016@gmail.com>
+Date:   Thu Nov 21 17:43:04 2024 -0300
+
+    defini o tamanho inicial do site modificando os arquivos index.html e estilo.css.
+
+[33mcommit 12fe4a6e1facdb35660869c0cfa8478b5ef37ec0[m
+Author: Lucas Carvalho <lucas.carvalho.lopes016@gmail.com>
+Date:   Wed Nov 20 15:42:51 2024 -0300
+
+    adicionei e modifiquei os arquivos indes.html estilo.css e index.js

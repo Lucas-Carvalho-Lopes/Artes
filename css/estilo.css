@@ -92,6 +92,30 @@ body {
     margin-left: 130px;
 }
 
+.video {
+    background-color: blue;
+    display: flex;
+    flex-flow: row wrap;
+    height: 500px;
+}
+
+.conteudoVideo {
+    flex: 100%;
+    align-items: center;
+}
+
+.conteudoVideo h1 {
+    text-align: center;
+}
+
+.conteudoVideo p {
+    text-align: center;
+}
+
+.conteudoVideo iframe {
+    margin-left: 400px;
+}
+
 .rodape {
     height: 200px;
     background-color: brown;
