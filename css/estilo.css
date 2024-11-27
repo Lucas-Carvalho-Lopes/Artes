@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-flow: row wrap;
     height: 100px;
-    /*background-color: green;*/
+    background-color: rgb(243, 204, 187);
 }
 
 .logo {
@@ -52,23 +52,28 @@ body {
 }
 
 .conteudo {
+    font-family: "Bitter", serif;
     display: flex;
     flex-flow: row wrap;
     height: 700px;
-    background-color: red;
+    /*background-color: red;*/
 }
 
 .artes {
     flex: 50%;
-    background-color: bisque;
+    /*background-color: bisque;*/
+    border: dashed 1px rgb(170, 81, 18);
+    border-radius: 5px;
 }
 
 .artes h1 {
     margin-left: 15px;
+    color: rgb(170, 81, 18);
 }
 
 .artes p {
     margin-left: 25px;
+    color: rgb(170, 81, 18);
 }
 
 .artes img {
@@ -77,23 +82,29 @@ body {
 
 .artes h2 {
     margin-left: 20px;
+    color: rgb(170, 81, 18);
 }
 
 .artes ul {
     margin-left: 25px;
+    color: rgb(170, 81, 18);
 }
 
 .historia {
     flex: 50%;
-    background-color: cadetblue;
+    /*background-color: cadetblue;*/
+    border: dashed 1px rgb(170, 81, 18);
+    border-radius: 5px;
 }
 
 .historia h1 {
     margin-left: 15px;
+    color: rgb(170, 81, 18);
 }
 
 .historia p {
     margin-left: 25px;
+    color: rgb(170, 81, 18);
 }
 
 .historia img {
@@ -101,10 +112,11 @@ body {
 }
 
 .video {
-    background-color: blue;
+    /*background-color: blue;*/
     display: flex;
     flex-flow: row wrap;
     height: 500px;
+
 }
 
 .conteudoVideo {
