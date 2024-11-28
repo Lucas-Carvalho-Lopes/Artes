@@ -120,16 +120,19 @@ body {
 }
 
 .conteudoVideo {
+    font-family: "Bitter", serif;
     margin: 0;
     flex: 100%;
     align-items: center;
 }
 
 .conteudoVideo h1 {
+    color: rgb(170, 81, 18);
     text-align: center;
 }
 
 .conteudoVideo p {
+    color: rgb(170, 81, 18);
     text-align: center;
 }
 
