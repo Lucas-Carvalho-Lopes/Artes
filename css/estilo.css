@@ -77,7 +77,7 @@ body {
 }
 
 .artes img {
-    margin-left: 90px;
+    margin-left: 150px;
 }
 
 .artes h2 {
@@ -86,7 +86,7 @@ body {
 }
 
 .artes ul {
-    margin-left: 25px;
+    margin-left: 40px;
     color: rgb(170, 81, 18);
 }
 
@@ -108,7 +108,8 @@ body {
 }
 
 .historia img {
-    margin-left: 130px;
+    margin-top: 50px;
+    margin-left: 205px;
 }
 
 .video {
