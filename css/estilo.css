@@ -196,3 +196,48 @@ body {
     background-color: rgb(170, 81, 18);
     color: rgb(237, 173, 150);
 }
+
+/*estilo tiposArtes*/
+
+.main {
+    display: flex;
+    flex-flow: column;
+    height: 700px;
+    background-color: blue;
+}
+
+.conteudoTipo {
+    background-color: chocolate;
+}
+
+.musica {
+    background-color: violet;
+}
+
+.danca {
+    background-color: green;
+}
+
+.pintura {
+    background-color: grey;
+}
+
+.escultura {
+    background-color: bisque;
+}
+
+.teatro {
+    background-color: chartreuse;
+}
+
+.literatura {
+    background-color: turquoise;
+}
+
+.cinema {
+    background-color: cornflowerblue;
+}
+
+.arteDigital {
+    background-color: red;
+}
