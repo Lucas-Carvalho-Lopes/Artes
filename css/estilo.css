@@ -202,42 +202,140 @@ body {
 .main {
     display: flex;
     flex-flow: column;
-    height: 700px;
+    height: auto;
     background-color: blue;
 }
 
 .conteudoTipo {
+    margin-left: 50px;
+    flex: 10;
     background-color: chocolate;
 }
 
+.conteudoTipo h1 {
+    font-family: "Bitter", serif;
+}
+
+.conteudoTipo ul {
+    font-family: "Bitter", serif;
+}
+
 .musica {
+    margin-left: 50px;
+    flex: 10;
     background-color: violet;
 }
 
+.musica h1 {
+    font-family: "Bitter", serif;
+}
+
+.musica p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .danca {
+    margin-left: 50px;
+    flex: 10;
     background-color: green;
 }
 
+.danca h1 {
+    font-family: "Bitter", serif;
+}
+
+.danca p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .pintura {
+    margin-left: 50px;
+    flex: 10;
     background-color: grey;
 }
 
+.pintura h1 {
+    font-family: "Bitter", serif;
+}
+
+.pintura p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .escultura {
+    margin-left: 50px;
+    flex: 10;
     background-color: bisque;
 }
 
+.escultura h1 {
+    font-family: "Bitter", serif;
+}
+
+.escultura p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .teatro {
+    margin-left: 50px;
+    flex: 10;
     background-color: chartreuse;
 }
 
+.teatro h1 {
+    font-family: "Bitter", serif;
+}
+
+.teatro p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .literatura {
+    margin-left: 50px;
+    flex: 10;
     background-color: turquoise;
 }
 
+.literatura h1 {
+    font-family: "Bitter", serif;
+}
+
+.literatura p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .cinema {
+    margin-left: 50px;
+    flex: 10;
     background-color: cornflowerblue;
 }
 
+.cinema h1 {
+    font-family: "Bitter", serif;
+}
+
+.cinema p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
+}
+
 .arteDigital {
+    margin-left: 50px;
+    flex: 10;
     background-color: red;
+}
+
+.arteDigital h1 {
+    font-family: "Bitter", serif;
+}
+
+.arteDigital p {
+    margin-left: 10px;
+    font-family: "Bitter", serif;
 }
