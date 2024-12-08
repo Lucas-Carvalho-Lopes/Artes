@@ -203,34 +203,38 @@ body {
     display: flex;
     flex-flow: column;
     height: auto;
-    background-color: blue;
+    /*background-color: blue;*/
 }
 
 .conteudoTipo {
     margin-left: 50px;
     flex: 10;
-    background-color: chocolate;
+    /*background-color: chocolate;*/
 }
 
 .conteudoTipo h1 {
     font-family: "Bitter", serif;
+    color: rgb(170, 81, 18);
 }
 
 .conteudoTipo ul {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .musica {
     margin-left: 50px;
     flex: 10;
-    background-color: violet;
+    /*background-color: violet;*/
 }
 
 .musica h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .musica p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -238,14 +242,16 @@ body {
 .danca {
     margin-left: 50px;
     flex: 10;
-    background-color: green;
+    /*background-color: green;*/
 }
 
 .danca h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .danca p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -253,14 +259,16 @@ body {
 .pintura {
     margin-left: 50px;
     flex: 10;
-    background-color: grey;
+    /*background-color: grey;*/
 }
 
 .pintura h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .pintura p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -268,14 +276,16 @@ body {
 .escultura {
     margin-left: 50px;
     flex: 10;
-    background-color: bisque;
+    /*background-color: bisque;*/
 }
 
 .escultura h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .escultura p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -283,14 +293,16 @@ body {
 .teatro {
     margin-left: 50px;
     flex: 10;
-    background-color: chartreuse;
+    /*background-color: chartreuse;*/
 }
 
 .teatro h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .teatro p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -298,14 +310,16 @@ body {
 .literatura {
     margin-left: 50px;
     flex: 10;
-    background-color: turquoise;
+    /*background-color: turquoise;*/
 }
 
 .literatura h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .literatura p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -313,14 +327,16 @@ body {
 .cinema {
     margin-left: 50px;
     flex: 10;
-    background-color: cornflowerblue;
+    /*background-color: cornflowerblue;*/
 }
 
 .cinema h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .cinema p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
@@ -328,14 +344,16 @@ body {
 .arteDigital {
     margin-left: 50px;
     flex: 10;
-    background-color: red;
+    /*background-color: red;*/
 }
 
 .arteDigital h1 {
+    color: rgb(170, 81, 18);
     font-family: "Bitter", serif;
 }
 
 .arteDigital p {
+    color: rgb(170, 81, 18);
     margin-left: 10px;
     font-family: "Bitter", serif;
 }
