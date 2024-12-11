@@ -378,3 +378,45 @@ body {
     background-color: rgb(170, 81, 18);
     color: rgb(237, 173, 150);
 }
+
+/*Estilo Detalhes*/
+
+.mainDetalhes {
+    font-family: "Bitter", serif;
+}
+
+.mainDetalhes h1 {
+    color: rgb(170, 81, 18);
+    margin-left: 30px;
+}
+
+.mainDetalhes h2 {
+    color: rgb(170, 81, 18);
+    margin-left: 30px;
+}
+
+.mainDetalhes p {
+    color: rgb(170, 81, 18);
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.menuVoltarDetalhes {
+    /*background-color: blue;*/
+    margin-top: 50px;
+}
+
+.menuVoltarDetalhes a {
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: larger;
+    background-color: rgb(237, 173, 150);
+    color: rgb(170, 81, 18);
+}
+
+.menuVoltarDetalhes a:hover {
+    background-color: rgb(170, 81, 18);
+    color: rgb(237, 173, 150);
+}
